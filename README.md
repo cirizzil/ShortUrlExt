@@ -51,8 +51,11 @@ A simple Chrome extension to shorten URLs using TinyURL. This extension allows y
 - `icon.png` - The icon for the extension.
 
 ## Demo
-![image](https://github.com/user-attachments/assets/a2d0cc6e-dbf9-4ce4-8b21-c4b7847b8a5e)
-![image](https://github.com/user-attachments/assets/8c566347-3fbb-43fa-839d-27e126780994)
+![image](https://github.com/user-attachments/assets/ac163cb9-2973-4cd1-ae30-289ecf5241e2)
+![image](https://github.com/user-attachments/assets/8e96d922-31b1-4f27-b1fe-6f2a4ef0270b)
+
+
+
 
 
 
